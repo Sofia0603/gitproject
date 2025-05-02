@@ -3,9 +3,11 @@ div{
    max-width: 1200px;
 }
 span{
+
     color: black;
     border: 1px solid black;
 }
 p{
-    color: black;
+    color: green;
+    border: 1px solid green;
 }
